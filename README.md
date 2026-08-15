@@ -19,7 +19,7 @@ To install the module, open your terminal screen, navigate to your MagicMirror m
 
 ```bash
 cd ~/MagicMirror/modules
-git clone https://github.com
+git clone https://github.com/ha2013210/MMM-leafletmap
 ```
 
 ---
